@@ -171,7 +171,7 @@ Copy code
 
 ## 👨‍💻 Author
 
-**Omar Nani**  
+**Zakaria Khali**  
 🎓 Big Data Student  
 🚀 Machine Learning & Web Development Enthusiast  
 
